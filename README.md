@@ -1,6 +1,5 @@
 # Hi there! I'm Renato — DevOps Engineer 👋🏼  
 
-🌐 Building my own [blog](https://dev.to/rmendoza) to share DevOps insights  
 ⚡ Passionate about **cloud automation, Kubernetes, CICD, and scalable infrastructure**  
 ✍️ Writing about best practices to help teams deliver faster, safer, and smarter  
 
