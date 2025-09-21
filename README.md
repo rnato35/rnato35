@@ -1,7 +1,7 @@
-# Hi there! I'm Renato 👋🏼  
-
-⚡ Passionate about **cloud automation, Kubernetes, CICD, and scalable infrastructure**  
-✍️ Writing about best practices to help teams deliver faster, safer, and smarter  
+#Hi there! I'm Renato 👋🏼
+⚡ Building secure automation solutions with **AWS**, **Kubernetes**, and **Terraform**
+✍️ Writing about DevOps practices, automation strategies, and cloud architecture
+🔧 Helping teams streamline deployments and reduce infrastructure complexity
 
 ---
 
