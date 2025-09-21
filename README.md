@@ -1,6 +1,7 @@
-#Hi there! I'm Renato 👋🏼
-⚡ Building secure automation solutions with **AWS**, **Kubernetes**, and **Terraform**
-✍️ Writing about DevOps practices, automation strategies, and cloud architecture
+# Hi there! I'm Renato 👋🏼
+
+⚡ Building secure automation solutions with **AWS**, **Kubernetes**, and **Terraform**  
+✍️ Writing about DevOps practices, automation strategies, and cloud architecture  
 🔧 Helping teams streamline deployments and reduce infrastructure complexity
 
 ---
